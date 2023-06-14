@@ -1,0 +1,10 @@
+{
+    "Tape": 
+    {
+        "N": "36",
+        "M": "10",
+        "delay_read": "1",
+        "delay_write": "1.5",
+        "delay_move": "0.5"
+    }
+}
